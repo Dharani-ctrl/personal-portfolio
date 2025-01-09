@@ -42,7 +42,7 @@
                              >
                                <div className="projectContent">
                                  <h5 id={"first"} style={{ color: "#fbd9ad" }}>
-                                   New Year CountDown
+                                   BMI Calculator
                                  </h5>
                                  <img src={bmi} alt={bmi} />
                                  <div className="project--showcaseBtn">
