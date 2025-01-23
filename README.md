@@ -1,4 +1,4 @@
-![Portfolio](https://github.com/Dharani-ctrl/Personal-Portfolio/blob/main/src/images/personal-portfolio.png)
+![Portfolio](https://github.com/Dharani-ctrl/Personal-Portfolio-main\src\images\personal-potfolio.png)
 
 # Getting Started with Create React App
 
